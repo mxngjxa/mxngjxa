@@ -27,9 +27,6 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mxngjxa&theme=onedark" alt="Streak Stats" />
-  https://github-readme-streak-stats.herokuapp.com/?user=mxngjxa&theme=onedark" alt="Streak Stats" />
-  [![GitHub Streak]()](https://git.io/streak-stats)
-
   <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
 </div>
 
