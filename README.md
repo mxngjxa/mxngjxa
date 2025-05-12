@@ -20,11 +20,14 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=radical&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mxngjxa&theme=radical)
+<div style="display: flex; justify-content: space-evenly; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxngjxa&theme=radical" alt="Streak Stats" />
+</div>
 
 [![Jacky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxngjxa)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
