@@ -13,9 +13,7 @@ Here’s a Markdown-ready version, grouping each category into its own table. Fe
 
 | **Category**                                | **Icons**              |
 |---------------------------------------------|------------------------|
-| **Programming Languages**                  | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Programming Languages**                  | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Data Science Frameworks**                |                        |
 | **Apache Frameworks**                       |                        |
 | **Web Development**                        |                        |
