@@ -35,10 +35,13 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 
 ## 🏆 Certifications
 
-- **Advanced Machine Learning on Google Cloud** | Google Cloud (November 2024)
-- **Natural Language Processing (NLP) Specialization** | DeepLearning.AI (November 2024)
-- **Machine Learning Specialization** | DeepLearning.AI (October 2024)
-- **Data Engineering Professional Certificate** | IBM (September 2024)
+| **Course**                                      | **Provider**            | **Completion Date**   |
+|-------------------------------------------------|-------------------------|-----------------------|
+| **Advanced Machine Learning on Google Cloud**    | Google Cloud            | November 2024         |
+| **Natural Language Processing (NLP) Specialization** | DeepLearning.AI         | November 2024         |
+| **Machine Learning Specialization**             | DeepLearning.AI         | October 2024          |
+| **Data Engineering Professional Certificate**    | IBM                     | September 2024        |
+
 
 ## 📫 How to Reach Me
 
