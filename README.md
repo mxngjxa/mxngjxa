@@ -26,8 +26,11 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxngjxa&theme=onedark" alt="Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mxngjxa&theme=onedark" alt="Streak Stats" />
+  https://github-readme-streak-stats.herokuapp.com/?user=mxngjxa&theme=onedark" alt="Streak Stats" />
+  [![GitHub Streak]()](https://git.io/streak-stats)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
 </div>
 
 [![Jacky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxngjxa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -35,12 +38,14 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 
 ## 🏆 Certifications
 
+<div align="center">
 | **Course**                                      | **Provider**            | **Completion Date**   |
 |-------------------------------------------------|-------------------------|-----------------------|
 | **Advanced Machine Learning on Google Cloud**    | Google Cloud            | November 2024         |
 | **Natural Language Processing (NLP) Specialization** | DeepLearning.AI         | November 2024         |
 | **Machine Learning Specialization**             | DeepLearning.AI         | October 2024          |
 | **Data Engineering Professional Certificate**    | IBM                     | September 2024        |
+</div>
 
 
 ## 📫 How to Reach Me
