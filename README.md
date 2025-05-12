@@ -30,7 +30,7 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
     <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
 </div>
 
-[![Jacky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxngjxa&theme=synthwave)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jacky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxngjxa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🏆 Certifications
