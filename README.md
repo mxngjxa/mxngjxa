@@ -86,9 +86,13 @@ Data Scientist and Machine Learning Engineer based in Middletown, NY with expert
 
 ## 📊 GitHub Statistics
 
-| GitHub Stats | Top Languages | Streak Stats | Contribution Calendar |
-|--------------|---------------|--------------|-----------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical) | ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mxngjxa&theme=radical)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mxngjxa&theme=react-dark)
 
 
 
