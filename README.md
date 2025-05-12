@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, neural networks, and data engineering. Currently working as a Machine Learning Engineer at Deledao Technologies and DevOps Engineer at Sunregen Healthcare. Trilingual professional passionate about creating impactful contributions to society through data science and machine learning solutions.
+Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, neural networks, and data engineering. Currently working as a Machine Learning Engineer at [Deledao Technologies](deledao.com) and DevOps Engineer at [Sunregen Healthcare](sunregen.com). Trilingual professional passionate about creating impactful contributions to society through data science and machine learning solutions.
 
 ## 🛠️ Technical Skills
 
