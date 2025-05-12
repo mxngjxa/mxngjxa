@@ -11,46 +11,17 @@ Here’s a Markdown-ready version, grouping each category into its own table. Fe
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
 
-| Language | Badge |
-|----------|-------|
-| Python   | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white        | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logo     | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white Science Frameworks
+| **Programming Languages**                  |                        |
+| **Data Science Frameworks**                |                        |
+| **Apache Frameworks**                       |                        |
+| **Web Development**                        |                        |
+| **Database Systems**                       |                        |
+| **DevOps Infrastructure and Technologies** |                        |
+| **Cloud Platforms**                        |                        |
+| **Academic Tools**                         |                        |
 
-| Framework     | Badge |
-|---------------|-------|
-| TensorFlow    | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColorTorch       | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white  | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColorte        | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlitPy         | ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipyas        | ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandasPy         | ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white    | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColoraborn       | ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo Tidyverse     | ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge Apache Frameworks
 
-| Project      | Badge |
-|--------------|-------|
-| Spark        | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black       | ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black         | ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black      | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoFi         | ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white        | ![Apache HBase](https://img.shields.io/badge/Apache%20HBase-509ECE?style=for-the-badge&logo Phoenix      | ![Apache Phoenix](https://img.shields.io/badge/Apache%20Phoenix-F66F07?style=for-the-badge&logo Flume        | ![Apache Flume](https://img.shields.io/badge/Apache%20Flume-007DAB?style=for-the-badge&logo=apacheflume&logoColor=white        | ![Apache Sqoop](https://img.shields.io/badge/Apache%20Sqoop-46A508?style=for-the-badge&logo Kafka        | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white Development
-
-| Technology   | Badge |
-|--------------|-------|
-| JavaScript   | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColorScript   | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor5        | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white         | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo Database Systems
-
-| System       | Badge |
-|--------------|-------|
-| MySQL        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysqlgreSQL   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColoroDB      | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white       | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo DevOps & Infrastructure
-
-| Tool / OS        | Badge |
-|------------------|-------|
-| Docker           | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo Git              | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Hub           | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo= Linux            | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo= Shell Script     | ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo= Jupyter Notebook | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=j Cloud Platforms
-
-| Platform     | Badge |
-|--------------|-------|
-| Google Cloud | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white          | ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColoremic & Productivity
-
-| Tool            | Badge |
-|-----------------|-------|
-| LaTeX           | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo= Microsoft Office| ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColore sections into your README to give a clean, tabular overview of your entire tech stack!
-
-Citations:
-[1] https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[2] https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-
----
-Answer from Perplexity: pplx.ai/share
 **Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -111,7 +82,7 @@ Answer from Perplexity: pplx.ai/share
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-**Academic Languages**
+**Academic Tools**
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
