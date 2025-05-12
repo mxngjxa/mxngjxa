@@ -5,11 +5,6 @@
 Data Scientist and Machine Learning Engineer based in Middletown, NY with expertise in NLP, neural networks, and data engineering. Currently working as a Machine Learning Engineer at Deledao Technologies and DevOps Engineer at Sunregen Healthcare. Trilingual professional passionate about creating impactful contributions to society through data science and machine learning solutions.
 
 ## 🛠️ Technical Skills
-Here’s a Markdown-ready version, grouping each category into its own table. Feel free to copy & paste directly into your `README.md`.
-
----
-
-## 🛠️ Tech Stack
 
 | **Category**                                | **Icons**              |
 |---------------------------------------------|------------------------|
@@ -87,6 +82,15 @@ Here’s a Markdown-ready version, grouping each category into its own table. Fe
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+## 📊 GitHub Statistics
+
+| GitHub Stats | Top Languages | Streak Stats | Contribution Calendar |
+|--------------|---------------|--------------|-----------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical) | ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark) |
+
+
 
 ## 🏆 Certifications
 
