@@ -4,6 +4,10 @@
 
 Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, neural networks, and data engineering. Currently working as a Machine Learning Engineer at [Deledao Technologies](deledao.com) and DevOps Engineer at [Sunregen Healthcare](sunregen.com). Trilingual professional passionate about creating impactful contributions to society through data science and machine learning solutions.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa&layout=compact&theme=onedark" alt="Top Languages" />
+</div>
+
 ## 🛠️ Technical Skills
 
 | **Category**                                | **Icons**              |
@@ -20,13 +24,10 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa&layout=compact&theme=synthwave" alt="Top Languages" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxngjxa&theme=synthwave" alt="Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=synthwave&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxngjxa&theme=onedark" alt="Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
 </div>
 
 [![Jacky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxngjxa&theme=synthwave)](https://github.com/ashutosh00710/github-readme-activity-graph)
