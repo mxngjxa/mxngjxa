@@ -39,6 +39,14 @@ Data Scientist and Machine Learning Engineer based in Middletown, NY with expert
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
+---
+Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python.io/badge/R-276DC3?style=for-the-badge&logoshields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColorimg.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whiteHTML5-E34F26?style=for-the-badge&logo/badge/CSS3-1572B6?style=for-the-badge&logoshields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logo
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=/badge/NumPy-013243?style=for-the-badge&logo=.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipy&](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoimg.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white/badge/Tidyverse-1A162D?style=for-the-badge&logo
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoimg.shields.io/badge/Git-F05032?style=for-the-badge&logo=git.io/badge/GitHub-100000?style=for-the-badge&logo=shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logo.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logo.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apimg.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logoimg.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo= Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoimg.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+---
+
 ## 💼 Professional Experience
 
 - **Machine Learning Engineer** | Deledao Technologies Corp. (June 2025 - Present)
