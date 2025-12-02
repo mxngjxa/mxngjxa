@@ -4,10 +4,6 @@
 
 Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, neural networks, and data engineering. Currently working as a Machine Learning Engineer at [Deledao Technologies](deledao.com) and DevOps Engineer at [Sunregen Healthcare](sunregen.com). Trilingual professional passionate about creating impactful contributions to society through data science and machine learning solutions.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa&layout=compact&theme=onedark" alt="Top Languages" />
-</div>
-
 ## 🛠️ Technical Skills
 
 | **Scope**                                | **Tools**              |
@@ -24,11 +20,8 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 
 ## 📊 GitHub Statistics
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mxngjxa&theme=onedark" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
-</div>
+![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa&hide_progress=true)
 
 [![Jacky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxngjxa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -39,6 +32,7 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
   
 | **Course**                                      | **Provider**            | **Completion Date**   |
 |-------------------------------------------------|-------------------------|-----------------------|
+| **IBM Deep Learning with PyTorch, Keras and Tensorflow**    | IBM      | November 2025        |
 | **Advanced Machine Learning on Google Cloud**    | Google Cloud            | November 2024         |
 | **Natural Language Processing (NLP) Specialization** | DeepLearning.AI         | November 2024         |
 | **Machine Learning Specialization**             | DeepLearning.AI         | October 2024          |
