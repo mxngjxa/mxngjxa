@@ -18,10 +18,7 @@ Data Scientist and Machine Learning Engineer based in NY with expertise in NLP, 
 | **Academic Tools**                         |![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)|
 
 
-## 📊 GitHub Statistics
-
-![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxngjxa&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxngjxa&hide_progress=true)
+## 📊 Contribution Statistics
 
 [![Jacky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mxngjxa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
